@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+}
+.navbar{
+    background: #2065AE;
+    color: #fff;
+    width: 100vw;
+}
+.logo{
+    width: 7rem;
+    height: 3rem;
+}
+.nav-item{
+    text-align: center;
+}
+.form{
+    margin: 20px;
+}
+.btn {
+    width: 100px;
+    border-radius: 2.25rem;
+    color: #FFFFFF;
+    background-color: #154171;
+    border-style: solid;
+    border-color: #194B81;
+}
+.line{
+    color: #fff;
+}
+
+.fa-search{
+    margin-left: 70px;
+}
+.my-sm-0{
+    margin-left: 30px;
+    border-radius: 2.5rem;
+}
+
